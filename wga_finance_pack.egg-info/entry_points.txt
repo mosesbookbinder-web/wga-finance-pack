@@ -1,0 +1,2 @@
+[console_scripts]
+wga-finance = finance_pack.engine:main

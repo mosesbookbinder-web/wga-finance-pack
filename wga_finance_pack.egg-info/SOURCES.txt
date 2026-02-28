@@ -1,0 +1,8 @@
+pyproject.toml
+finance_pack/__init__.py
+finance_pack/engine.py
+wga_finance_pack.egg-info/PKG-INFO
+wga_finance_pack.egg-info/SOURCES.txt
+wga_finance_pack.egg-info/dependency_links.txt
+wga_finance_pack.egg-info/entry_points.txt
+wga_finance_pack.egg-info/top_level.txt
