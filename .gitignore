@@ -4,3 +4,5 @@ outputs/
 .DS_Store
 
 *.egg-info/
+
+*.egg-info/
