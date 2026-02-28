@@ -1,14 +1,24 @@
 WGA FINANCE PACK LICENSE (NON-COMMERCIAL)
 
-Copyright (c) 2026 Moses Bookbinder
 
-Permission is granted to use, copy, modify, and distribute this software for personal,
-educational, and non-commercial research purposes only.
 
-Commercial use is not permitted without a separate written commercial license from the
-copyright holder. Commercial use includes use by any for-profit entity (including
-corporations, subsidiaries, contractors, and affiliates) or use in connection with a
-paid product, service, or internal business operation.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-Contact: YOUR_EMAIL_HERE
+Licensing
+This project is released under a dual-license model.
+
+Non-commercial use is permitted under the included non-commercial license.
+Commercial use requires an explicit commercial license.
+
+See LICENSE.md and COMMERCIAL_LICENSE.md for details.
+
+
+
+
+
+
+
+
+Copyright (c) 2026 
+Jacob Moses Bookbinder
+
+
