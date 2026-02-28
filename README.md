@@ -1,23 +1,24 @@
-# wga-finance-pack
-WGA Finance Pack: integrity-first financial validation engine. Emits deterministic PASS/HALT decisions with SHA-256 bound run artifacts and audit-ready promotion records. AVLR gate model enforces artifact existence, schema integrity, linkage, and receipt verification. Cross-platform, reproducible, fail-closed computation.
+# WGA Finance Pack
 
+Integrity-first financial validation engine for reproducible runs.
 
+WGA Finance Pack emits deterministic **PASS/HALT** decisions with cryptographically bound artifacts:
+- **run_bundle.json** (self-indexing run summary)
+- **PROMOTION_RECORD.json** (decision + gate status + output hashes)
+- **.sha256 receipts** for every emitted artifact
 
-Copyright (c) 2026 Jacob Moses Bookbinder
+Gate model (AVLR):
+- **A** Artifact existence
+- **V** Schema/header integrity (e.g., required fields)
+- **L** Linkage integrity (hash binding)
+- **R** Receipt verification (sha256 checks)
 
-License: Non-Commercial Use Only
+## Install
 
-Permission is granted to use, copy, modify, and distribute this software for personal,
-educational, and non-commercial research purposes.
-
-Commercial use is prohibited without explicit written permission from the copyright holder.
-This restriction applies to any for-profit entity, including corporations, subsidiaries,
-contractors, and affiliates.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-Contact: YOUR_EMAIL_HERE
+```bash
+python3 -m pip install -e .
+Contact: jmbookbinder3@gmail.com | moses.bookbinder@witnessgradeanalytics.com
 TXT
 
-git add LICENSE
-git commit -m "Add non-commercial license"
-git push
+LICENSE
+-m "Non-commercial license"
