@@ -1,0 +1,24 @@
+WGA FINANCE PACK LICENSE (NON-COMMERCIAL)
+
+
+
+
+Licensing
+This project is released under a dual-license model.
+
+Non-commercial use is permitted under the included non-commercial license.
+Commercial use requires an explicit commercial license.
+
+See LICENSE.md and COMMERCIAL_LICENSE.md for details.
+
+
+
+
+
+
+
+
+Copyright (c) 2026 
+Jacob Moses Bookbinder
+
+
