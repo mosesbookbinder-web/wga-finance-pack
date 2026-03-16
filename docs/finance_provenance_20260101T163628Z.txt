@@ -1,0 +1,7 @@
+=== FINANCE PROVENANCE SNAPSHOT (UTC) ===
+Thu Jan  1 16:36:28 UTC 2026
+
+-rw-r--r--  1 mosesfolder  staff  6025216 Jan  1 11:36 apps/canonical/domains/finance/v1/db/finance_v1.db
+
+sha256:
+88af906e5ee6a99cd675041866aa1459735460a0e3be0f37a268f3ef885534ce  apps/canonical/domains/finance/v1/db/finance_v1.db

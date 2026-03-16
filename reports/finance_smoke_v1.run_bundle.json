@@ -1,0 +1,27 @@
+{
+  "ts_utc": "2026-01-01T12:14:35Z",
+  "gate": {
+    "domain_id": "finance_v1",
+    "experiment_id": "finance_smoke_v1",
+    "mode": "export"
+  },
+  "config": {
+    "path": "apps/canonical/domains/finance/v1/config.json",
+    "sha256": "11456036d82f8b942cf66016d2b2530b6443cf7c5aad963ab0b213187eec57a1",
+    "db_path": "apps/canonical/domains/finance/v1/db/finance_v1.db"
+  },
+  "environment": {
+    "git_commit": "384ddab4192d7be97983900ea45dc87de9e94586",
+    "python": "Python 3.12.12",
+    "pip_freeze_sha256": "8e8775b6412ffcd8d579301281818bc69d1684bf3e661e34626c19a3ef5d8834"
+  },
+  "inputs": {
+    "picked_csv": "_INBOX_RAW/Bookbinder_LOCAL_2025-12-26/App Stuff /Finance App/Fin_Gate_APP/EXPERIMENT_FIN_GATE/Finance_SIGNALS.csv",
+    "picked_csv_sha256": "07830f4102a374b8669a0a455a969a3de3bd95c0d69f295a8c037b2bdb8048ca"
+  },
+  "outputs": {
+    "report_path": "outputs/finance_smoke_v1/finance_smoke_report.json",
+    "report_sha256": "d9e5c0b920e8a76ab6d758aae0acdda65228e8e9c733417c939086877a1eda5c"
+  },
+  "canonicalization": "json.dumps(sort_keys=True, separators=(',',':'), ensure_ascii=False) then sha256"
+}

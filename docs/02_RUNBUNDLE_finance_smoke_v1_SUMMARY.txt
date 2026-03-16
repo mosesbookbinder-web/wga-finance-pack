@@ -1,0 +1,12 @@
+RUN BUNDLE SUMMARY — finance_smoke_v1
+
+
+inputs:
+  - picked_csv: _INBOX_RAW/Bookbinder_LOCAL_2025-12-26/App Stuff /Finance App/Fin_Gate_APP/EXPERIMENT_FIN_GATE/Finance_SIGNALS.csv
+  - picked_csv_sha256: 07830f4102a374b8669a0a455a969a3de3bd95c0d69f295a8c037b2bdb8048ca
+
+outputs:
+  - report_path: outputs/finance_smoke_v1/finance_smoke_report.json
+  - report_sha256: d9e5c0b920e8a76ab6d758aae0acdda65228e8e9c733417c939086877a1eda5c
+
+decision:

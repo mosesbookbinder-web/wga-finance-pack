@@ -1,0 +1,19 @@
+{
+  "ts_utc": "2026-01-09T05:05:52Z",
+  "picked_csv": "_INBOX_RAW/Bookbinder_LOCAL_2025-12-26/App Stuff /Finance App/Fin_Gate_APP/EXPERIMENT_FIN_GATE/Finance_SIGNALS.csv",
+  "rows": 18,
+  "cols": 9,
+  "columns": [
+    "col_0",
+    "col_1",
+    "col_2",
+    "col_3",
+    "col_4",
+    "col_5",
+    "col_6",
+    "col_7",
+    "col_8"
+  ],
+  "header_mode": "no_header",
+  "note": "Loaded successfully."
+}
