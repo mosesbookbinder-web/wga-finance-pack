@@ -14,6 +14,12 @@ A minimal finance-domain cleanroom for replayable signal analysis and gate-based
 - `receipts/03_RUNBUNDLE_finance_smoke_v1.sha256.txt`
 - `receipts/SHA256_MANIFEST.txt`
 
+## Related
+
+For the full validation engine and AVLR gate model, see:
+
+https://github.com/mosesbookbinder-web/wga-finance-pack
+
 ## Purpose
 
 This repository demonstrates a finance-domain continuation-control pattern using declared artifacts, replay-oriented run output, and descriptive gate logic.
